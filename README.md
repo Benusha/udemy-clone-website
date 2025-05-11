@@ -1,6 +1,6 @@
 # udemy-clone-website
 
-This project is a part of my weekly frontend development challenge to clone the Udemy website interface step by step. In Week 1, I have recreated the top header section of Udemy, which includes:
+This project is a part of my weekly frontend development challenge to clone the Udemy website interface step by step. In Week 1, I have recreated the homepage of Udemy, which includes:
 
 ## Languages Used:
 
